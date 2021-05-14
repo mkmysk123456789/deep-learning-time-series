@@ -23,6 +23,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Kin G. Olivares, et al.
   - Code not yet.
+  - 35
 
 - [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2101.12072.pdf) **reference**
 
