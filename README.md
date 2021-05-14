@@ -35,6 +35,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Pedro Lara-Benítez, et al.
   - [[Code](https://github.com/pedrolarben/TimeSeriesForecasting-DeepLearning)]
+  - 2
 
 - [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815.pdf)
 
@@ -45,6 +46,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Haoyi Zhou, et al.
   - [[Code](https://github.com/zhouhaoyi/Informer2020)]
+  - 6
 
 ### 2020
 
@@ -57,11 +59,13 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - H.D. Nguyen, et al.
   - Code not yet.
+  - 10
 
 - [Physics-constrained Deep Recurrent Neural Models of Building Thermal Dynamics](https://www.climatechange.ai/papers/neurips2020/41/paper.pdf)
 
   - Ján Drgona, et al.
   - Code not yet.
+  - 1
 
 - [MiniRocket: A Very Fast (Almost) Deterministic Transform for Time Series Classification](https://arxiv.org/pdf/2012.08791.pdf)
 
@@ -72,6 +76,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Yuan Xue, et al.
   - Code not yet.
+  - 2
 
 - [Real-World Anomaly Detection by using Digital
 Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9179030)
@@ -79,6 +84,7 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
   - Castellani Andrea, et al.
   - ```Honda Research Institute Europe GmbH```
   - Code not yet.
+  - 1
 
 - [Inter-Series Attention Model for COVID-19 Forecasting](https://arxiv.org/pdf/2010.13006.pdf) **Good reference**
 
