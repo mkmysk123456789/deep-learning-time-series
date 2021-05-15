@@ -47,8 +47,17 @@ List of state of the art papers focus on deep learning and resources, code and e
   - Haoyi Zhou, et al.
   - [[Code](https://github.com/zhouhaoyi/Informer2020)]
   - 6
+  - TransFomerを時系列に応用する研究, 初めてではない. Transformer による時系列の長期予測は過去にもある. Adversarial Sparse Transformer. Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting での拡張?? Transformerを時系列に応用する時のボトルネックを解決しようとした.
+
 
 ### 2020
+
+- [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf)
+
+  - Tencent AI Lab
+  - NeurIPS 2020
+  - 
+
 
 - [CHALLENGES AND APPROACHES TO TIME-SERIES FORECASTING IN DATA CENTER TELEMETRY: A SURVEY](https://arxiv.org/pdf/2101.04224.pdf)
 
