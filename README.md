@@ -14,6 +14,19 @@ List of state of the art papers focus on deep learning and resources, code and e
 * [Code Resource](#Code-Resource)
 * [Datasets](#Datasets)
 
+# Ranking
+
+1. DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING 634
+
+2.  Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction 175 
+
+3. Attend and Diagnose: Clinical Time Series Analysis Using Attention Models 152
+
+4. Deep State Space Models for Time Series Forecasting 141
+
+5. A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting 135
+
+6. 
 
 ## Papers
 
@@ -56,7 +69,7 @@ List of state of the art papers focus on deep learning and resources, code and e
 
   - Tencent AI Lab
   - NeurIPS 2020
-  - 
+  - GAN の要領で Transformer を学習する. 
 
 
 - [CHALLENGES AND APPROACHES TO TIME-SERIES FORECASTING IN DATA CENTER TELEMETRY: A SURVEY](https://arxiv.org/pdf/2101.04224.pdf)
@@ -409,6 +422,8 @@ Twin Systems and Weakly-Supervised Learning](https://ieeexplore.ieee.org/stamp/s
 
   - Boris N. Oreshkin, et al.
   - Code not yet.
+  - Deep Learningモデルながらも，季節性とTrend成分ごとに分解し解釈性を上げるモデルを提案. 金融データセットを用いて実験. 古典的な時系列予測モデルではなく，Deepアーキテクチャのみで優れた予測精度を達成する. 季節性スタックに入力される前にトレンド成分を除き，各部分予測を行い，季節性とtrend性のブロックで学習を行う. 
+
 
 - [How to Learn from Others: Transfer Machine Learning with Additive Regression Models to Improve Sales Forecasting](https://arxiv.org/pdf/2005.10698.pdf)**good new approach**
 
